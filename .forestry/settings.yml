@@ -7,13 +7,11 @@ sections:
 - type: document
   path: README.md
   label: Readme
-  match: "**/*"
 - type: document
   path: gatsby-config.js
   label: Config
-  match: "**/*"
 - type: directory
-  path: "\\contents\\blog"
+  path: contents/blog
   label: Blog
   create: all
   match: "**/*"
