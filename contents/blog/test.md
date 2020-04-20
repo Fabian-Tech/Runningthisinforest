@@ -7,3 +7,4 @@ banner: "/uploads/skyExample.jpg"
 description: Lorem Ipsum and so on...
 
 ---
+Lorem ipsum sit doloret.
