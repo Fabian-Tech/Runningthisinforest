@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: gatsby-config.js
+  label: Config
+  match: "**/*"
 - type: directory
   path: "\\contents\\blog"
   label: Blog
