@@ -20,3 +20,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- contents/blog/test.md
